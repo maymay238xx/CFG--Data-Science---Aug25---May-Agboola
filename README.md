@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 About Moi 💅
+## 📌 About Moi 💁🏾‍♀️ 💅
 Hey! I'm a learner interested in:
 - Becoming a data whizz 🧙🏾‍♀️
 - Hopefully build good habits with Git 😅🙏🏾
