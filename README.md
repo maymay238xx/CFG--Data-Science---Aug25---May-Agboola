@@ -24,17 +24,17 @@ This repository will hold all of my CFGDegree Foundation Module assignments, sta
   Code block
   ```
 - > Blockquote
-- - [x] Task list example
+- -[x] Task list example
 - Emojis count? 🤷🏾‍♀️🤣
 
 ## 💻 Example project files included
 - `cfg-assignments.py` — a tiny Python script to commit and push
 - `.gitignore` — explaining what it does
 - `requirements.txt` — explaining how it works
-- `screenshots-checklist.md` — exactly which screenshots taken for the assignment
+- `screenshots-checklist.md` — list of screenshots taken for the assignment
 
-## 📝 .gitignore (what & why)
-A **.gitignore** file tells Git which files/folders to **ignore** so they won't be tracked. For example: temporary files, virtual environments, secrets.
+## ❓ .gitignore (what & why)
+A **.gitignore** file tells Git which files/folders to **ignore** so they won't be tracked. For example: temporary files, virtual environments, secrets 👀
 ## ❓ requirements.txt (what & why)
 A **requirements.txt** lists a project's Python dependencies so others can install them with `pip install -r requirements.txt`. (This will remain empty for purposes of the demo.)
 
