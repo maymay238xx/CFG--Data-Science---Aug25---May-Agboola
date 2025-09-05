@@ -28,7 +28,7 @@ This repository will hold all of my CFGDegree Foundation Module assignments, sta
 - Emojis count? 🤷🏾‍♀️🤣
 
 ## 💻 Example project files included
-- `cfg-assignments.py` — a tiny Python script to commit and push
+- `assignment-1.py` — a tiny Python script to commit and push
 - `.gitignore` — explaining what it does
 - `requirements.txt` — explaining how it works
 - `screenshots-checklist.md` — list of screenshots taken for the assignment
