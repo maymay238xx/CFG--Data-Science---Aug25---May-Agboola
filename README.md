@@ -43,13 +43,14 @@ A **requirements.txt** lists a project's Python dependencies so others can insta
 python cfg-assignments.py
 ```
 
-## 🧭 Navigating the Demo at a glance
+## 🧭 Navigating the Demo at a glance: 
 1. Will create a **feature branch**
 2. Make changes and **commit** with a message
 3. **Push** the branch to GitHub
 4. Open a **Pull Request** for reviewer/ collaborator
 5. **Merge** into `main`
 
-## 🖥️ Git Demonstration Process with Screenshots
+## 📸 Git Demonstration Process with Screenshots
 
-## Git Status 
+A full checklist of screenshots for Assignment 1 can be found here:  
+👉 [Screenshots Checklist](cfg-assignments/assignment-1-github/screenshots-checklist.md)
