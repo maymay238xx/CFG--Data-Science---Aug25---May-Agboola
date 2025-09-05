@@ -16,6 +16,10 @@ This document lists all the screenshots taken for Assignment 1 and explains what
 - [x] **Checking that GitHub lists all files**
   ![GitHub Lists All Files](screenshots/checking%20that%20GitHub%20lists%20all%20files.png)
 
+- [x] **Created a Pull Request on GitHub**  
+  ![Pull Request creation Github.png](screenshots/Pull%20Request%20creation%20Github.png)
+
+
 - [x] **First conflict involved in merging repository**
   ![First Conflict](screenshots/First%20conflict%20involved%20in%20merging%20repository.png)
 
