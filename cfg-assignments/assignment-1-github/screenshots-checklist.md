@@ -20,7 +20,6 @@ This document lists all the screenshots taken for Assignment 1 and explains what
 - [x] **Created a Pull Request on GitHub**  
   ![Pull Request creation Github.png](screenshots/Pull%20Request%20creation%20Github.png)
 
-
 - [x] **First conflict involved in merging repository**
   ![First Conflict](screenshots/First%20conflict%20involved%20in%20merging%20repository.png)
 
