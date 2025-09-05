@@ -40,7 +40,7 @@ A **requirements.txt** lists a project's Python dependencies so others can insta
 
 ## ▶️ How to run the demo script
 ```bash
-python cfg-assignments.py
+python assignment-1.py
 ```
 
 ## 🧭 Navigating the Demo at a glance: 
