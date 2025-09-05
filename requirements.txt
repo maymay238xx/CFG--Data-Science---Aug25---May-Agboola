@@ -1,1 +1,6 @@
+#To clone the repo run: pip install -r requirements.txt
+#This folder essentially lists the Python Packages aka dependencies needed for the project to run
+#In the example below for in this case the project requires the requests library version 2.3.10
 requests==2.31.0
+#This library is used to send HTTP requests in Python eg web APIs
+#Pinning the version ensures the code runs stabely accross diff environments to avoid unexpected changes from newer releases
