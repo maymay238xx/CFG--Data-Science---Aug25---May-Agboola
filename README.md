@@ -49,3 +49,7 @@ python cfg-assignments.py
 3. **Push** the branch to GitHub
 4. Open a **Pull Request** for reviewer/ collaborator
 5. **Merge** into `main`
+
+## 🖥️ Git Demonstration Process with Screenshots
+
+## Git Status 
