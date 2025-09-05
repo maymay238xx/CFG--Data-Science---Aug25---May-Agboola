@@ -54,3 +54,23 @@ python assignment-1.py
 
 A full checklist of screenshots for Assignment 1 can be found here:  
 👉 [Screenshots Checklist](cfg-assignments/assignment-1-github/screenshots-checklist.md)
+
+## 📖 Git & GitHub Commands Demonstrated
+
+Throughout Assignment 1, I practiced and demonstrated use of Git and GitHub commands, including:
+
+- Initializing and connecting a local repo to GitHub
+- Creating, switching, and merging branches
+- Staging and committing changes (`git add`, `git commit`)
+- Pushing changes to GitHub (`git push`)
+- Renaming and moving files/folders with `git mv`
+- Using `.gitignore` to exclude unnecessary files
+- Creating and managing `requirements.txt`
+- Tracking progress with `git status` and `git log`
+- Creating and documenting a Pull Request on GitHub
+- Adding screenshots and maintaining a checklist in Markdown
+
+All steps are supported with screenshots in [Screenshots Checklist](cfg-assignments/assignment-1-github/screenshots-checklist.md).
+
+To view changes made in Pull Request see below:
+[View Pull Request Comparison](https://github.com/maymay238xx/CFG--Data-Science---Aug25---May-Agboola/compare/feature-branch...main)
