@@ -36,7 +36,7 @@ This repository will hold all of my CFGDegree Foundation Module assignments, sta
 ## ❓ .gitignore (what & why)
 A **.gitignore** file tells Git which files/folders to **ignore** so they won't be tracked. For example: temporary files, virtual environments, secrets 👀
 ## ❓ requirements.txt (what & why)
-A **requirements.txt** lists a project's Python dependencies so others can install them with `pip install -r requirements.txt`. (This will remain empty for purposes of the demo.)
+A **requirements.txt** lists a project's Python dependencies so others can install them with `pip install -r requirements.txt`. 
 
 ## ▶️ How to run the demo script
 ```bash
