@@ -1,4 +1,4 @@
-#Heres an example of the content a .gitignore may contain
+#Heres an example of the content an .gitignore may contain
 #Ignores Python cache folders
 __pycache__/
 #Ignores complied Python files
