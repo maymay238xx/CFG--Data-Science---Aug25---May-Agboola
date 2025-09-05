@@ -15,7 +15,8 @@ This document lists all the screenshots taken for Assignment 1 and explains what
 
 - [x] **Checking that GitHub lists all files**
   ![GitHub Lists All Files](screenshots/checking%20that%20GitHub%20lists%20all%20files.png)
-
+- [x] **Checking status** 
+![Checking the status.png](screenshots/Checking%20the%20status.png)
 - [x] **Created a Pull Request on GitHub**  
   ![Pull Request creation Github.png](screenshots/Pull%20Request%20creation%20Github.png)
 
