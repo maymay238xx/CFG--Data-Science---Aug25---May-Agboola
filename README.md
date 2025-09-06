@@ -44,7 +44,7 @@ python assignment-1.py
 ```
 👉🏾 The mini README to running the demo script can be found [here](how-to-run-assignment1-demo.md)
 
-## 🧭 Navigating the Demo at a glance: 
+## 🧭 Navigating the assignment at a glance: 
 1. Will create a **feature branch**
 2. Make changes and **commit** with a message
 3. **Push** the branch to GitHub
