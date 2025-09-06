@@ -34,7 +34,7 @@ This repository will hold all of my CFGDegree Foundation Module assignments, sta
 - `screenshots-checklist.md` — list of screenshots taken for the assignment
 
 ## ❓ .gitignore (what & why)
-A **.gitignore** file tells Git which files/folders to **ignore** so they won't be tracked. For example: temporary files, virtual environments, secrets 👀
+A **.gitignore** file tells Git which files/folders to **ignore** so they won't be tracked. _For example_: temporary files, virtual environments, secrets 👀
 ## ❓ requirements.txt (what & why)
 A **requirements.txt** lists a project's Python dependencies so others can install them with `pip install -r requirements.txt`. 
 
