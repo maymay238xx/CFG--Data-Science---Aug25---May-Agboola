@@ -11,7 +11,7 @@ Hey! I'm a learner interested in:
 - Becoming a data whizz 🧙🏾‍♀️
 - Hopefully build good habits with Git 😅🙏🏾
 
-> “if success()==True: celebrate(), while sucess() ==False: try_again(), be_awesome() ” - the internet, lol
+> “if success()==True: celebrate(), while success() ==False: try_again(), be_awesome() ” - the internet, lol
 ## 📁 What this Repo is for
 This repository will hold all of my CFGDegree Foundation Module assignments, starting with **Assignment 1 GitHub**.
 
