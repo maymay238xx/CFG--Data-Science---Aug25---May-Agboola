@@ -17,12 +17,13 @@ This document lists all the screenshots taken for Assignment 1 and explains what
 - ![checking that Github lists all files.png](screenshots/checking%20that%20Github%20lists%20all%20files.png)
 
 - [x] **Checking status** 
-![Checking the status.png](screenshots/Checking%20the%20status.png)
+-![Checking the status.png](screenshots/Checking%20the%20status.png)
+
 - [x] **Created a Pull Request on GitHub**  
-  ![Pull Request creation Github.png](screenshots/Pull%20Request%20creation%20Github.png)
+-![Pull Request creation Github.png](screenshots/Pull%20Request%20creation%20Github.png)
 
 - [x] **First conflict involved in merging repository**
-  ![First Conflict](screenshots/First%20conflict%20involved%20in%20merging%20repository.png)
+-![First Conflict](screenshots/First%20conflict%20involved%20in%20merging%20repository.png)
 
 - [x] **Identified and moved the correct .gitignore**
   ![Correct Gitignore](screenshots/Identified%20and%20moved%20the%20correct%20gitignore.png)
