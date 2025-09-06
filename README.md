@@ -15,7 +15,7 @@ Hey! I'm a learner interested in:
 ## 📁 What this Repo is for
 This repository will hold all of my CFGDegree Foundation Module assignments, starting with **Assignment 1 GitHub**.
 
-## ✅ Markdown Features used in the Demo
+## ✅ Markdown Features used in the Assignment
 - **Bold**
 - _Italic_
 - [Link to GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
