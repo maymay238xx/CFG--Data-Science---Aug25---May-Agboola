@@ -22,9 +22,9 @@ pip install -r requirements.txt
 ```
 ---
 ## Usage
-Run the app with:
+Run the script with:
 ```bash
-python app.py
+python assignment-1.py
 ```
 
 ## Contributing

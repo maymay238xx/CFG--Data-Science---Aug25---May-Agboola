@@ -12,10 +12,10 @@ Hey! I'm a learner interested in:
 - Hopefully build good habits with Git 😅🙏🏾
 
 > “if success()==True: celebrate(), while sucess() ==False: try_again(), be_awesome() ” - the internet, lol
-## 📁 What this repo is for
+## 📁 What this Repo is for
 This repository will hold all of my CFGDegree Foundation Module assignments, starting with **Assignment 1 GitHub**.
 
-## ✅ Markdown features used in the demo
+## ✅ Markdown Features used in the Demo
 - **Bold**
 - _Italic_
 - [Link to GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -27,7 +27,7 @@ This repository will hold all of my CFGDegree Foundation Module assignments, sta
 - - [x] Task list example
 - Emojis count? 🤷🏾‍♀️🤣
 
-## 💻 Example project files included
+## 💻 Example Project Files included
 - `assignment-1.py` — a tiny Python script to commit and push
 - `.gitignore` — explaining what it does
 - `requirements.txt` — explaining how it works
@@ -38,8 +38,7 @@ A **.gitignore** file tells Git which files/folders to **ignore** so they won't 
 ## ❓ requirements.txt (what & why)
 A **requirements.txt** lists a project's Python dependencies so others can install them with `pip install -r requirements.txt`. 
 
-## ▶️ How to run the demo script
-Enter into your terminal
+## ▶️ How to Run the Demo Script
 ```bash
 python assignment-1.py
 ```
@@ -51,6 +50,9 @@ python assignment-1.py
 3. **Push** the branch to GitHub
 4. Open a **Pull Request** for reviewer/ collaborator
 5. **Merge** into `main`
+
+To view changes made in Pull Request see
+[View Pull Request Comparison](https://github.com/maymay238xx/CFG--Data-Science---Aug25---May-Agboola/compare/feature-branch...main)
 
 ## 📸 Git Demonstration Process with Screenshots
 
@@ -74,5 +76,3 @@ Throughout Assignment 1, I practiced and demonstrated use of Git and GitHub comm
 
 All steps are supported with screenshots in [Screenshots Checklist](cfg-assignments/assignment-1-github/screenshots-checklist.md).
 
-To view changes made in Pull Request see below:
-[View Pull Request Comparison](https://github.com/maymay238xx/CFG--Data-Science---Aug25---May-Agboola/compare/feature-branch...main)
