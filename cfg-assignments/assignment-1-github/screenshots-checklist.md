@@ -33,7 +33,7 @@ This document lists all the screenshots taken for Assignment 1 and explains what
 
 - [x] **Adding requirements.txt**
   ![Requirements.txt](screenshots/Adding%20requirements.txt.png)
-- [x] **Succesful pip install -r run**
+- [x] **Successful pip install -r run**
 ![pip install -r attempt.png](screenshots/pip%20install%20-r%20attempt.png)
 ---![pip install -r successful.png](screenshots/pip%20install%20-r%20successful.png)
 ![pip install -r programme run1.png](screenshots/pip%20install%20-r%20programme%20run1.png)
