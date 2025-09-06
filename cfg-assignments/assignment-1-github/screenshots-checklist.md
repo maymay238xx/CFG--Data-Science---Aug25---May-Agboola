@@ -29,8 +29,7 @@ This document lists all the screenshots taken for Assignment 1 and explains what
   ![Correct Gitignore](screenshots/Identified%20and%20moved%20the%20correct%20gitignore.png)
 
 - [x] **View of Repo in Local**
-  ![Repo Local View](screenshots/View%20of%20Repo%20in%20Local.png)
-
+![View of local repo.png](screenshots/View%20of%20local%20repo.png)
 - [x] **Adding requirements.txt**
   ![Requirements.txt](screenshots/Adding%20requirements.txt.png)
 - [x] **Successful pip install -r run**
