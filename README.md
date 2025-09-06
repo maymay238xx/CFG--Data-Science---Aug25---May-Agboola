@@ -39,12 +39,13 @@ A **.gitignore** file tells Git which files/folders to **ignore** so they won't 
 A **requirements.txt** lists a project's Python dependencies so others can install them with `pip install -r requirements.txt`. 
 
 ## ▶️ How to run the demo script
+Enter into your terminal
 ```bash
 python assignment-1.py
 ```
 👉🏾 The mini README to running the demo script can be found [here](how-to-run-assignment1-demo.md)
 
-## 🧭 Navigating the assignment at a glance: 
+## 🧭 Navigating the Assignment at a glance: 
 1. Will create a **feature branch**
 2. Make changes and **commit** with a message
 3. **Push** the branch to GitHub
