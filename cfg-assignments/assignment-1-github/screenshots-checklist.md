@@ -13,7 +13,7 @@ This document lists all the screenshots taken for Assignment 1 and explains what
 - [x] **Creating and adding branch**
   ![Creating Branch](screenshots/creating%20and%20adding%20branch.png)
 
--[x] **Branch successfully pushed through**
+- [x] **Branch successfully pushed through**
 - ![branch successfully pushed through.png](screenshots/branch%20succesfully%20pushed%20through.png)
 
 - [x] **Checking that GitHub lists _all_ files**
