@@ -18,7 +18,6 @@ This document lists all the screenshots taken for Assignment 1 and explains what
 
 - [x] **Checking status** 
 ![Checking the status.png](screenshots/Checking%20the%20status.png)
-
 - [x] **Created a Pull Request on GitHub**  
   ![Pull Request creation Github.png](screenshots/Pull%20Request%20creation%20Github.png)
 
