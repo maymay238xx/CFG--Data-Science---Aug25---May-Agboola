@@ -14,7 +14,7 @@ This document lists all the screenshots taken for Assignment 1 and explains what
   ![Creating Branch](screenshots/creating%20and%20adding%20branch.png)
 
 - [x] **Checking that GitHub lists all files**
-  ![GitHub Lists All Files](screenshots/checking%20that%20GitHub%20lists%20all%20files.png)
+- ![checking that Github lists all files.png](screenshots/checking%20that%20Github%20lists%20all%20files.png)
 - [x] **Checking status** 
 ![Checking the status.png](screenshots/Checking%20the%20status.png)
 - [x] **Created a Pull Request on GitHub**  
