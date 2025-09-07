@@ -31,10 +31,15 @@ This document lists all the screenshots taken for Assignment 1 and explains what
 - [x] **Identified and moved the correct .gitignore**
   ![Correct Gitignore](screenshots/Identified%20and%20moved%20the%20correct%20gitignore.png)
 
+- [x] **Merging/deploying resolved conflict feature branch into main branch**
+![resolving conflict merge:deploy to main branch1.png](screenshots/resolving%20conflict%20merge%3Adeploy%20to%20main%20branch1.png)
+![resolving conflict merge:deploy to main branch2.png](screenshots/resolving%20conflict%20merge%3Adeploy%20to%20main%20branch2.png)
+
 - [x] **View of Repo in Local**
 ![View of local repo.png](screenshots/View%20of%20local%20repo.png)
 - [x] **Adding requirements.txt**
   ![Requirements.txt](screenshots/Adding%20requirements.txt.png)
+
 - [x] **Successful pip install -r run**
 ![pip install -r attempt.png](screenshots/pip%20install%20-r%20attempt.png)
 ---![pip install -r successful.png](screenshots/pip%20install%20-r%20successful.png)
