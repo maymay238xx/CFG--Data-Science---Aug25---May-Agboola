@@ -32,8 +32,8 @@ This document lists all the screenshots taken for Assignment 1 and explains what
   ![Correct Gitignore](screenshots/Identified%20and%20moved%20the%20correct%20gitignore.png)
 
 - [x] **Merging/deploying resolved conflict feature branch into main branch**
--![resolving conflict merge:deploy to main branch1.png](screenshots/resolving%20conflict%20merge%3Adeploy%20to%20main%20branch1.png)
--![resolving conflict merge:deploy to main branch2.png](screenshots/resolving%20conflict%20merge%3Adeploy%20to%20main%20branch2.png)
+![resolving conflict merge:deploy to main branch1.png](screenshots/resolving%20conflict%20merge%3Adeploy%20to%20main%20branch1.png)
+![resolving conflict merge:deploy to main branch2.png](screenshots/resolving%20conflict%20merge%3Adeploy%20to%20main%20branch2.png)
 
 - [x] **View of Repo in Local**
 ![View of local repo.png](screenshots/View%20of%20local%20repo.png)
@@ -42,7 +42,7 @@ This document lists all the screenshots taken for Assignment 1 and explains what
 
 - [x] **Successful pip install -r run**
 ![pip install -r attempt.png](screenshots/pip%20install%20-r%20attempt.png)
-![pip install -r successful.png](screenshots/pip%20install%20-r%20successful.png)
+---![pip install -r successful.png](screenshots/pip%20install%20-r%20successful.png)
 ![pip install -r programme run1.png](screenshots/pip%20install%20-r%20programme%20run1.png)
 ![pip install -r programme run2.png](screenshots/pip%20install%20-r%20programme%20run2.png)
 
