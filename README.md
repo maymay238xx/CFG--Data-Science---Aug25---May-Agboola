@@ -18,7 +18,7 @@ This repository will hold all of my CFGDegree Foundation Module assignments, sta
 ## ✅ Markdown Features used in the Assignment
 - **Bold**
 - _Italic_
-- [Link to GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Link(s) incl GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - `Inline code`
 - ```
   Code block
