@@ -1,0 +1,12 @@
+#Heres an example of the content an .gitignore may contain
+#Ignores Python cache folders
+__pycache__/
+#Ignores complied Python files
+*.pyc
+*.pyo
+#Ignores log files
+*.log
+#Ignores the virtual enviroment folder
+ven/
+#In my case using MacOS this tells it to ignore Mac-specific system files
+.DS_Store
