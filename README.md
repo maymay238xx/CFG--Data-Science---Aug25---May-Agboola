@@ -74,5 +74,5 @@ Throughout Assignment 1, I practiced and demonstrated use of Git and GitHub comm
 - Creating and documenting a Pull Request on GitHub
 - Adding screenshots and maintaining a checklist in Markdown
 
-All steps are supported with screenshots in [Screenshots Checklist](cfg-assignments/assignment-1-github/screenshots-checklist.md).
+All steps are supported with screenshots in [Screenshots Checklist](cfg-assignments/assignment-1/screenshots-checklist.md)
 
