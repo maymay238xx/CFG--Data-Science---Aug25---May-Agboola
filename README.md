@@ -42,7 +42,7 @@ A **requirements.txt** lists a project's Python dependencies so others can insta
 ```bash
 python assignment-1.py
 ```
-👉🏾 The mini README to running the demo script can be found here [how-to-run-assignment1-demo.md](cfg-assignments/assignment-1/how-to-run-assignment1-demo.md)
+👉🏾 The mini README to running the demo script can be found [Here](cfg-assignments/assignment-1/how-to-run-assignment1-demo.md)
 
 ## 🧭 Navigating the Assignment at a glance: 
 1. Will create a **feature branch**
@@ -57,7 +57,7 @@ To view changes made in Pull Request see
 ## 📸 Git Demonstration Process with Screenshots
 
 A full checklist of screenshots for Assignment 1 can be found here:  
-👉🏾 [Screenshots Checklist][screenshots-checklist.md](cfg-assignments/assignment-1/screenshots-checklist.md)
+👉🏾 [screenshots-checklist.md](cfg-assignments/assignment-1/screenshots-checklist.md)
 
 ## 📖 Git & GitHub Commands Demonstrated
 
