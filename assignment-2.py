@@ -56,7 +56,7 @@ else:
     anime_id = NARUTO_ID
     print("You're not serious 😑, defaulting to Naruto")
 
-#This bit tells python that when the user picks either option that it should display the below next
+
 episodes = get_episodes(anime_id)
 print("Number of episodes in first page:", len(episodes))
 for ep in episodes[:5]:
