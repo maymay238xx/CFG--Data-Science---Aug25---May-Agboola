@@ -82,4 +82,4 @@ for ep in episodes[:5]:
         "✅" if ep["filler"] else "❌")
 
 #Finito - after all that faff should hopefully print the table
-    console.print(table)
+console.print(table)
