@@ -76,6 +76,3 @@ Throughout Assignment 1, I practiced and demonstrated use of Git and GitHub comm
 
 All steps are supported with screenshots in [Screenshots Checklist](cfg-assignments/assignment-1/screenshots-checklist.md)
 
-
-## Review notes
-- Ready for feedback.
