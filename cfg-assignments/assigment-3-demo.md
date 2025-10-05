@@ -10,14 +10,12 @@ From interacting you'll observe that:
 - Uppercased active member names `UPPER` with `ORDER BY` join date
 - _In additon_: Members with no bookings will be revealed using `LEFT JOIN`...`IS NULL`
 
-### Stored Procedure
+### Database Stored Procedure
 For booking only if the class is not full and the member is active.
 
 ### ▶️ How to Run:
 You can run the whole script from top-to-bottom and it works in MySQL workbench or the mysql command-line
-
-Download the `assignment-3.sql` file available on the homepage.
+- Download the script `assignment-3.sql` [Here](assignment-3.sql)
 
 ### 🔧 Requirements:
 - Stable current version of MySQL Workbench or whichever suitable sql command-line
-- Download the script `assignment-3.sql` [Here](assignment-3.sql)
