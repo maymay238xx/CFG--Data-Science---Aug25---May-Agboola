@@ -59,7 +59,7 @@ INSERT INTO members VALUES
 (1,'Emily','Stone', 'emily@mayisthebest.ie','2025-01-12','ACTIVE'),
 (2,'Naruto','Uzamaki', 'naruto@mayissupercool.com','2025-02-03','ACTIVE'),
 (3,'Kemi','Adebayo','kemi@mayisawesome.co.uk','2025-02-19','ACTIVE'),
-(4,'Will','Smith','P@mayismay.com','2025-03-01','SUSPENDED '),
+(4,'Will','Smith','will@mayismay.com','2025-03-01','SUSPENDED '),
 (5,'Priya','Patel', 'priya@mayslayy.com','2025-03-18','ACTIVE'),
 (6,'Ruby','King' ,'ruby@shesjustagirl.co.uk','2025-04-02','ACTIVE'),
 (7,'Monkey', 'D.Luffy','monkey@shesacutie.com','2025-04-20','ACTIVE'),
