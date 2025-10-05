@@ -20,4 +20,4 @@ Download the `assignment-3.sql` file available on the homepage.
 
 ### 🔧 Requirements:
 - Stable current version of MySQL Workbench or whichever suitable sql command-line
-- Download the script `assignment-3.sql`
+- Download the script `assignment-3.sql` [Here](assignment-3.sql)
