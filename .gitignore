@@ -11,5 +11,5 @@ ven/
 #In my case using MacOS this tells it to ignore Mac-specific system files
 .DS_Store
 .idea/
-.env
+.env/
 .venv/
