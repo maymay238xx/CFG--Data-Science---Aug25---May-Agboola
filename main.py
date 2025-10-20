@@ -75,6 +75,7 @@ def run(): #Opening greeting to the API menu
     print()
     print('Thank you for visiting Game Rentals!')
 
+
 if __name__ == "__main__":
     run()
 

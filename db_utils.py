@@ -143,3 +143,6 @@ def rent_game(game_id, customer_name):
     return (True, "Game rented successfully.")
 
 if __name__ == "__main__":
+        print(get_all_games())
+        print(get_top_games())
+        print(rent_game(1, "Test Customer"))
