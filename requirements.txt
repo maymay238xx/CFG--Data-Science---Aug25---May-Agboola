@@ -2,5 +2,21 @@
 #This folder essentially lists the Python Packages aka dependencies needed for the project to run
 #In the example below for in this case the project requires the requests library version 2.31.0
 requests==2.31.0
+rich==13.7.1
 #This library is used to send HTTP requests in Python eg web APIs
 #Pinning the version ensures the code runs stabely accross diff environments to avoid unexpected changes from newer releases
+
+# Requirements for Assignment 2
+# -----------------------------------
+# NOTE: The Jikan API is version 4.0.0 (see https://api.jikan.moe/v4).
+# That is the *web API version*, not a Python package.
+#
+# To call 'Jikan', we use the Python 'requests' library (version 2.31.0).
+# 'requests' is separate from the API itself – it’s just the tool that
+# lets Python send HTTP requests and parse JSON responses.
+#rich==13.7.1 is a package module we'll use to make a nice table from our python output
+
+# So:
+# - requests==2.31.0  -> Python package we install with pip
+# - rich==13.7.1      -> Package module to create a nice simple table
+# - Jikan v4.0.0      -> API version, controlled in the URL we call
