@@ -34,7 +34,7 @@ def rent_game():
         "success": result[0],
         "message": result[1]
     })
-#This will be the opening greeting when if it hopefully runs successfully
+#This will be the opening greeting if it hopefully runs successfully
 def run():
     print("🎮 Game Rentals API running…")
     print("Try these in your browser:")
