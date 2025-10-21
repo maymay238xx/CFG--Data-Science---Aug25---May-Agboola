@@ -29,7 +29,8 @@ def rent_game(game_id, customer_name): #Stores the title being rented
     result = requests.post(
         'http://127.0.0.1:5001/rent', headers=headers, data=json.dumps(rent_info)
     )
-    return result.json()
+    results_json = result.json()
+    return results_json
 
 def run(): #Opening greeting to the API menu
     print('############################')
@@ -70,7 +71,7 @@ def run(): #Opening greeting to the API menu
         print('####### UPDATED AVAILABILITY #######')
         print()
         updated_games = get_all_games()
-        display_games(updated_games)
+        print (updated_games)
 
     print()
     print('Thank you for visiting Game Rentals!')
