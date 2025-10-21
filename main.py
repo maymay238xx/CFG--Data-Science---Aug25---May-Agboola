@@ -58,10 +58,10 @@ def run(): #Opening greeting to the API menu
     print_games_table(platform_games)
     print()
     #After displaying the list of games available based on the user input choice it will ask the user the following below
-    rent_answer = input('Would you like to rent a game (y/n): ')
+    rent_answer = str(input('Would you like to rent a game (y/n): '))
     if rent_answer.lower() == 'y':
-        game_id = input('Enter the ID of the game you want to rent: ')
-        rent_result = rent_game(int(game_id), name)
+        game_id = int(input('Enter the ID of the game you want to rent: '))
+        rent_result = rent_game(game_id, name)
         print()
         print('Rental request result:')
         print(rent_result.get('message', 'Rental completed.'))
