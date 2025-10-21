@@ -38,8 +38,8 @@ def run(): #Opening greeting to the API menu
     print('############################')
     print()
 
-    name = input('Enter your name: ')
-    platform = input('Which platform are you interested in (Switch/PS4/Xbox): ')
+    name = str(input('Enter your name: '))
+    platform = str(input('Which platform are you interested in (Switch/PS4/Xbox): '))
     print()
 
     print('####### AVAILABLE GAMES #######')
@@ -73,7 +73,7 @@ def run(): #Opening greeting to the API menu
         updated_games = get_all_games()
         print (updated_games)
 
-    print()
+
     print('Thank you for visiting Game Rentals!')
 
 
