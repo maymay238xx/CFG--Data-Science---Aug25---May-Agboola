@@ -54,7 +54,7 @@ def run(): #Opening greeting to the API menu
 
     if len(platform_games) == 0:
         print('No games found for this platform.')
-        return
+
 
     print_games_table(platform_games)
     print()
