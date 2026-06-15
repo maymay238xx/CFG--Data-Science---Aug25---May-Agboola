@@ -20,7 +20,7 @@ This repository holds all of my CFGDegree past projects, including
 **Building Database Demo**
 **Github best practices**
 
-## ✅ Markdown Features used in the Assignment
+## ✅ Markdown Features used in the Project
 - **Bold**
 - _Italic_
 - [Link(s) incl GitHub Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
@@ -49,7 +49,7 @@ python github best practices.py
 ```
 👉🏾 The mini README to running the demo script can be found [Here](Projects/github best practices/how-to-run-assignment1-demo.md)
 
-## 🧭 Navigating the Assignment at a glance: 
+## 🧭 Navigating the Project at a glance: 
 1. Will create a **feature branch**
 2. Make changes and **commit** with a message
 3. **Push** the branch to GitHub
