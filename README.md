@@ -83,7 +83,7 @@ A relational MySQL database for a gym studio, designed and queried from scratch.
 - Members with no bookings surfaced using `LEFT JOIN ... IS NULL`
 - A stored procedure that books a spot only if the class is not full and the member is active
 
-**How to run:**▶️
+**How to run:** ▶️
 
 Download `assignment-3.sql` and run the script top-to-bottom in MySQL Workbench or the MySQL command line.
 
