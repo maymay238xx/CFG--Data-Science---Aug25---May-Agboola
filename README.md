@@ -13,7 +13,12 @@ Hey! I'm a learner interested in:
 
 > “if success()==True: celebrate(), while success() ==False: try_again(), be_awesome() ” - the internet, lol
 ## 📁 What this Repo is for
-This repository will hold all of my CFGDegree Foundation Module assignments, starting with **Assignment 1 GitHub**.
+This repository holds all of my CFGDegree past projects, including
+
+**GET/POST Relational Database API Rental Shop Demo**.
+**Anime API Recall JSON Tool**
+**Building Database Demo**
+**Github best practices**
 
 ## ✅ Markdown Features used in the Assignment
 - **Bold**
@@ -28,10 +33,10 @@ This repository will hold all of my CFGDegree Foundation Module assignments, sta
 - Emojis count? 🤷🏾‍♀️🤣
 
 ## 💻 Example Project Files included
-- `assignment-1.py` — a tiny Python script to commit and push
+- `github best practices.py` — a tiny Python script to commit and push
 - `.gitignore` — explaining what it does
 - `requirements.txt` — explaining how it works
-- `screenshots-checklist.md` — list of screenshots taken for the assignment
+- `screenshots-checklist.md` — list of screenshots taken for the project
 
 ## ❓ .gitignore (what & why)
 A **.gitignore** file tells Git which files/folders to **ignore** so they won't be tracked. _For example_: temporary files, virtual environments, secrets 👀
@@ -56,12 +61,12 @@ To view changes made in Pull Request see
 
 ## 📸 Git Demonstration Process with Screenshots
 
-A full checklist of screenshots for Assignment 1 can be found here:  
+A full checklist of screenshots for github best practices can be found here:  
 👉🏾 [screenshots-checklist.md](Projects/github best practices/screenshots-checklist.md)
 
 ## 📖 Git & GitHub Commands Demonstrated
 
-Throughout Assignment 1, I practiced and demonstrated use of Git and GitHub commands, including:
+Throughout Project, I practiced and demonstrated use of Git and GitHub commands, including:
 
 - Initializing and connecting a local repo to GitHub
 - Creating, switching, and merging branches
