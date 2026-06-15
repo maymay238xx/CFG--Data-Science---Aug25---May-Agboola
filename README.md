@@ -37,7 +37,7 @@ A practical walkthrough of a real Git workflow: initialising a local repo, conne
 - Tracking progress with `git status` and `git log`
 - Opening and documenting a Pull Request on GitHub
 
-**How to run:**
+**How to run:** ▶️
 ```bash
 git clone https://github.com/maymay238xx/CFG--Data-Science---Aug25---May-Agboola.git
 pip install -r requirements.txt
@@ -58,7 +58,7 @@ Consumes the [Jikan public API](https://jikan.moe) (no API key required) to fetc
 - Saves results to `episodes.txt`
 - Outputs a formatted table using the `rich` library
 
-**How to run:**
+**How to run:** ▶️
 ```bash
 pip install -r requirements.txt
 python "Anime API recall tool.py"
@@ -83,7 +83,7 @@ A relational MySQL database for a gym studio, designed and queried from scratch.
 - Members with no bookings surfaced using `LEFT JOIN ... IS NULL`
 - A stored procedure that books a spot only if the class is not full and the member is active
 
-**How to run:**
+**How to run:**▶️
 
 Download `assignment-3.sql` and run the script top-to-bottom in MySQL Workbench or the MySQL command line.
 
@@ -104,7 +104,7 @@ A two-file Flask application that connects to a MySQL database and exposes a sim
 - `app.py` — Flask app defining the API routes (GET/POST), connected to MySQL via `mysql-connector-python`
 - `main.py` — client script that communicates with the API and presents a terminal menu
 
-**How to run:** ⚙️
+**How to run:** ▶️
 ```bash
 pip install Flask mysql-connector-python requests tabulate
 ```
@@ -116,7 +116,7 @@ pip install Flask mysql-connector-python requests tabulate
 
 ---
 
-## Dependencies
+## Dependencies ⚙️
 
 ```bash
 pip install -r requirements.txt
@@ -127,4 +127,4 @@ pip install -r requirements.txt
 | `requests` | 2.31.0 | HTTP requests to external APIs |
 | `rich` | 13.7.1 | Formatted terminal table output |
 
-Flask API dependencies installed separately — see Assignment 4 above.
+**Flask API dependencies installed separately — see Assignment 4 above.**
