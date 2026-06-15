@@ -40,9 +40,9 @@ A **requirements.txt** lists a project's Python dependencies so others can insta
 
 ## ▶️ How to Run the Demo Script
 ```bash
-python assignment-1.py
+python github best practices.py
 ```
-👉🏾 The mini README to running the demo script can be found [Here](cfg-assignments/assignment-1/how-to-run-assignment1-demo.md)
+👉🏾 The mini README to running the demo script can be found [Here](Projects/github best practices/how-to-run-assignment1-demo.md)
 
 ## 🧭 Navigating the Assignment at a glance: 
 1. Will create a **feature branch**
@@ -57,7 +57,7 @@ To view changes made in Pull Request see
 ## 📸 Git Demonstration Process with Screenshots
 
 A full checklist of screenshots for Assignment 1 can be found here:  
-👉🏾 [screenshots-checklist.md](cfg-assignments/assignment-1/screenshots-checklist.md)
+👉🏾 [screenshots-checklist.md](Projects/github best practices/screenshots-checklist.md)
 
 ## 📖 Git & GitHub Commands Demonstrated
 
@@ -74,5 +74,5 @@ Throughout Assignment 1, I practiced and demonstrated use of Git and GitHub comm
 - Creating and documenting a Pull Request on GitHub
 - Adding screenshots and maintaining a checklist in Markdown
 
-All steps are supported with screenshots in [Screenshots Checklist](cfg-assignments/assignment-1/screenshots-checklist.md)
+All steps are supported with screenshots in [Screenshots Checklist](Projects/github best practices/screenshots-checklist.md)
 

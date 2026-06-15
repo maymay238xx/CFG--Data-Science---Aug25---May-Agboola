@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 **_Then_**
 ```bash
-python assignment-2.py
+python Anime API recall tool.py
 ```
 
 

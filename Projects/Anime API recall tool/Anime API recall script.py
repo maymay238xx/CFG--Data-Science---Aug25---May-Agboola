@@ -2,7 +2,7 @@
 API: Jikan (Naruto episodes) https://api.jikan.moe/v4/anime/20/episodes
 How to run:
     pip install -r requirements.txt
-    python assignment-2.py
+    python Anime API recall tool.py
 """
 #Importing our modules
 import requests

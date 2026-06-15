@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Usage
 Run the script with:
 ```bash
-python assignment-1.py
+python github best practices.py
 ```
 
 ## Contributing
