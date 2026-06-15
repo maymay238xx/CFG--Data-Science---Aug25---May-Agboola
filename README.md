@@ -1,5 +1,5 @@
 # CFG--Data-Science---Aug25---May-Agboola
-# CFG-Assignments — Assignment 1 (Git & GitHub)
+# Project README Introduction
 
 **Name:** _May Agboola_  
 **Course:** CFGDegree Foundation Module
